@@ -12,13 +12,6 @@
 
 <br>
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ap-0007&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</div>
-
-<br>
-
 <!-- About Section -->
 ## `> whoami`
 
@@ -142,32 +135,8 @@ A custom **operating system built from scratch** in Assembly. Bootloader → ker
 ## `> stats`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ap-0007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ap-0007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap-0007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<br>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ap-0007&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1a1b27" />
-</div>
-
-<br>
-
-<!-- Snake Game -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ap-0007/Ap-0007/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ap-0007/Ap-0007/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ap-0007/Ap-0007/output/github-snake-dark.svg" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap-0007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br>
