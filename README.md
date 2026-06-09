@@ -29,7 +29,7 @@ class VantaNox:
             "languages":  ["Python", "TypeScript", "JavaScript", "Assembly"],
             "frontend":   ["React", "Next.js", "Vite", "Tailwind CSS"],
             "backend":    ["Node.js", "Express", "BullMQ", "Docker"],
-            "ai":         ["Ollama", "LLMs", "pgvector", "Embeddings"],
+            "ai":         ["Ollama", "LLMs", "pgvector", "Embeddings","SLMs"],
             "infra":      ["Supabase", "PostgreSQL", "Redis", "Vercel"],
             "other":      ["React Native", "Expo", "Chrome Extensions"],
         }
