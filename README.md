@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anutsek--pathak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/anutsek-pathak-42a617371/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ap--0007-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Ap-0007)
 [![Live](https://img.shields.io/badge/%F0%9F%94%B4_Live-blackbox--sos.vercel.app-1f6feb?style=for-the-badge&labelColor=0d1117)](https://blackbox-sos.vercel.app)
-![Profile Views](https://komarev.com/ghpvc/?username=Ap-0007&color=1f6feb&style=for-the-badge&label=VISITORS&abbreviated=true)
+![Visitors](https://komarev.com/ghpvc/?username=Ap-0007&color=1f6feb&style=for-the-badge&label=VISITORS&abbreviated=true)
 
 </div>
 
@@ -53,18 +53,15 @@ class VantaNox:
 <div align="center">
 
 <p>
-  <a href="https://github.com/Ap-0007"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" style="background-color:var(--bgColor-muted);border-radius:6px"></a>
-  <a href="https://github.com/Ap-0007"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" style="background-color:var(--bgColor-muted);border-radius:6px"></a>
-  <a href="https://github.com/Ap-0007"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" style="background-color:var(--bgColor-muted);border-radius:6px"></a>
-  <a href="https://github.com/Ap-0007"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" style="background-color:var(--bgColor-muted);border-radius:6px"></a>
-  <a href="https://github.com/Ap-0007"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" style="background-color:var(--bgColor-muted);border-radius:6px"></a>
-  <a href="https://github.com/Ap-0007"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx" style="background-color:var(--bgColor-muted);border-radius:6px"></a>
-  <a href="https://github.com/Ap-0007"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" style="background-color:var(--bgColor-muted);border-radius:6px"></a>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub">
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,vite,expo,tailwind,supabase,postgres,redis,linux,vscode&theme=dark" alt="Skills">
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,vite,expo,tailwind,supabase,postgres,redis,linux,vscode&theme=dark" alt="Skills">
 
 </div>
 
@@ -76,9 +73,9 @@ class VantaNox:
 
 | | |
 |---|---|
-| **🚨 [blackbox-sos](https://github.com/Ap-0007/blackbox-sos)**<br>Passive crash detection — **React Native + Expo**. Sensor fusion auto-detects accidents, sends location + AI injury report to emergency services *before anyone makes a call.*<br>`react-native` `expo` `typescript` `sensor-fusion` `ai`<br>[![Live](https://img.shields.io/badge/%E2%96%B6_Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://blackbox-sos.vercel.app) | **🧠 [forgetting-machine](https://github.com/Ap-0007/forgetting-machine)**<br>AI note system that **hides information until your brain is ready**. Spaced resurfacing via pgvector semantic search + BullMQ scheduler. Fully Dockerized.<br>`typescript` `react` `pgvector` `bullmq` `docker` |
+| **🚨 [blackbox-sos](https://github.com/Ap-0007/blackbox-sos)**<br>Passive crash detection — **React Native + Expo**. Sensor fusion auto-detects accidents, sends location + AI injury report to emergency services *before anyone makes a call.*<br>`react-native` `expo` `typescript` `sensor-fusion` `ai`<br>[![Live](https://img.shields.io/badge/%E2%96%B6_Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://blackbox-sos.vercel.app) | **🧠 [forgetting-machine](https://github.com/Ap-0007/forgetting-machine)**<br>AI note system that **hides information until your brain is ready**. Spaced resurfacing via pgvector + BullMQ scheduler. Fully Dockerized.<br>`typescript` `react` `pgvector` `bullmq` `docker` |
 | **🔮 [regret-simulator](https://github.com/Ap-0007/regret-simulator)**<br>Simulate **3 diverging 5-year life trajectories** for any major decision. Optimistic · Realistic · Pessimistic. Powered by Ollama + Next.js 14.<br>`nextjs` `ollama` `supabase` `tailwindcss` `llm` | **🪞 [parallel-you-engine](https://github.com/Ap-0007/parallel-you-engine)**<br>Two-phase **psychological profiling + scenario sim**. Interview builds your decision DNA → simulate what *you specifically* would do in any situation.<br>`react` `vite` `ollama` `psychology` |
-| **⏰ [api-time-machine](https://github.com/Ap-0007/api-time-machine)**<br>Chrome extension + local server that **records XHR/fetch traffic** and replays any past app state. Debug by time-traveling to the exact moment of a bug.<br>`typescript` `chrome-extension` `pnpm-monorepo` | **💻 [myos](https://github.com/Ap-0007/myos)**<br>A custom **OS from scratch** in Assembly. No C runtime. No GRUB. No shortcuts. Bootloader → kernel → bare-metal systems programming.<br>`assembly` `osdev` `bare-metal` `kernel` `nasm` |
+| **⏰ [api-time-machine](https://github.com/Ap-0007/api-time-machine)**<br>Chrome extension + local server that **records XHR/fetch traffic** and replays any past app state. Debug by time-traveling to the exact moment of a bug.<br>`typescript` `chrome-extension` `pnpm-monorepo` | **💻 [myos](https://github.com/Ap-0007/myos)**<br>A custom **OS from scratch** in Assembly. No C runtime. No GRUB. No shortcuts. Bootloader → kernel → bare-metal.<br>`assembly` `osdev` `bare-metal` `kernel` `nasm` |
 
 </div>
 
@@ -117,15 +114,9 @@ class VantaNox:
 
 <div align="center">
 
-> *every commit, stacked into a city — updated daily*
+> *every commit, stacked into a city — auto-generated daily*
 
-<a href="https://skyline.github.com/Ap-0007/2025">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
-</a>
-
-<sub>
-  ← if the skyline isn't rendered yet, <a href="https://github.com/Ap-0007/Ap-0007/actions">trigger the workflow manually</a> once
-</sub>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 
 </div>
 
