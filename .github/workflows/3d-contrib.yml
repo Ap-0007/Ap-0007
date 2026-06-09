@@ -2,7 +2,7 @@ name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # every day at 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
 
@@ -20,21 +21,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Ap-0007
-          SETTING_JSON: |
-            {
-              "githubUserName": "Ap-0007",
-              "fileName": "profile-3d-contrib/profile-night-rainbow.svg",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#c9d1d9",
-              "height": 200,
-              "dotColor": "#58a6ff",
-              "month12": false
-            }
+          MAX_REPOS: 10
+          THEME: "night-rainbow"
 
       - name: Commit and push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: refresh 3D contribution calendar"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: refresh 3D contribution calendar [skip ci]"
           git push
