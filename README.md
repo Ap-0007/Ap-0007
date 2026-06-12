@@ -86,7 +86,7 @@ class VantaNox:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ap-0007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=Ap-0007&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ap-0007&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=2" width="49%" />
 
 <br/>
 
