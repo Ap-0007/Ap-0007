@@ -81,15 +81,6 @@ class VantaNox:
 
 ---
 
-## `🔨 wip`
-
-> ⚠️ actively in progress — unstable, undocumented, possibly dangerous
-
-- `[ ]` something that watches your code and tells you when you're about to make a mistake
-- `[ ]` a tool that makes distributed systems feel like they're running on your laptop
-
----
-
 ## `📊 github_analytics`
 
 <div align="center">
@@ -99,8 +90,11 @@ class VantaNox:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap-0007&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ap-0007&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap-0007&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="55%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ap-0007&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=c9d1d9" width="100%" />
 
 </div>
 
