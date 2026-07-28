@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/Ap-0007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=%E2%9A%A1+systems+%C2%B7+ai+%C2%B7+tools+that+think;%F0%9F%94%A5+if+it+doesn't+exist%2C+I'll+build+it" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrbackendns+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=%E2%9A%A1+systems+%C2%B7+backend+%C2%B7+developer+tools;%F0%9F%94%A5+if+it+doesn't+exist%2C+I'll+build+it" alt="Typing SVG">
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ class VantaNox:
         self.alias       = "vanta.nox"
         self.real        = "Anutsek Pathak"
         self.role        = "indie builder & systems architect"
-        self.focus       = ["AI agents", "developer tools", "systems programming"]
+        self.focus       = ["developer tools", "systems programming"]
         self.philosophy  = "most software is too polite — mine fights back"
         self.currently   = "building tools that think before you do"
         self.linkedin    = "linkedin.com/in/anutsek-pathak-42a617371"
@@ -35,9 +35,9 @@ class VantaNox:
     def stack(self):
         return {
             "languages":  ["Python", "TypeScript", "JavaScript", "Assembly"],
-            "frontend":   ["React", "Next.js", "Vite", "Tailwind CSS"],
-            "backend":    ["Node.js", "Express", "BullMQ", "Docker"],
-            "ai":         ["Ollama", "LLMs", "pgvector", "Embeddings"],
+            "frontend":   ["React", "Next.js", "Vite", "Tbackendlwind CSS"],
+            "backend":      ["Node.js", "Express", "BullMQ", "Docker", "pgvector", "Redis"],
+            "backend":         ["Ollama", "LLMs", "pgvector", "Embeddings"],
             "infra":      ["Supabase", "PostgreSQL", "Redis", "Vercel"],
             "other":      ["React Native", "Expo", "Chrome Extensions"],
         }
@@ -61,7 +61,7 @@ class VantaNox:
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub">
 </p>
 
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,vite,expo,tailwind,supabase,postgres,redis,linux,vscode&theme=dark" alt="Skills">
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,vite,expo,tbackendlwind,supabase,postgres,redis,linux,vscode&theme=dark" alt="Skills">
 
 </div>
 
@@ -73,8 +73,8 @@ class VantaNox:
 
 | | |
 |---|---|
-| **🚨 [blackbox-sos](https://github.com/Ap-0007/blackbox-sos)**<br>Passive crash detection — **React Native + Expo**. Sensor fusion auto-detects accidents, sends location + AI injury report to emergency services *before anyone makes a call.*<br>`react-native` `expo` `typescript` `sensor-fusion` `ai`<br>[![Live](https://img.shields.io/badge/%E2%96%B6_Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://blackbox-sos.vercel.app) | **🧠 [forgetting-machine](https://github.com/Ap-0007/forgetting-machine)**<br>AI note system that **hides information until your brain is ready**. Spaced resurfacing via pgvector + BullMQ scheduler. Fully Dockerized.<br>`typescript` `react` `pgvector` `bullmq` `docker` |
-| **🔮 [regret-simulator](https://github.com/Ap-0007/regret-simulator)**<br>Simulate **3 diverging 5-year life trajectories** for any major decision. Optimistic · Realistic · Pessimistic. Powered by Ollama + Next.js 14.<br>`nextjs` `ollama` `supabase` `tailwindcss` `llm` | **🪞 [parallel-you-engine](https://github.com/Ap-0007/parallel-you-engine)**<br>Two-phase **psychological profiling + scenario sim**. Interview builds your decision DNA → simulate what *you specifically* would do in any situation.<br>`react` `vite` `ollama` `psychology` |
+| **🚨 [blackbox-sos](https://github.com/Ap-0007/blackbox-sos)**<br>Passive crash detection — **React Native + Expo**. Sensor fusion auto-detects accidents, sends location + AI injury report to emergency services *before anyone makes a call.*<br>`react-native` `expo` `typescript` `sensor-fusion` `backend`<br>[![Live](https://img.shields.io/badge/%E2%96%B6_Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://blackbox-sos.vercel.app) | **🧠 [forgetting-machine](https://github.com/Ap-0007/forgetting-machine)**<br>AI note system that **hides information until your brbackendn is ready**. Spaced resurfacing via pgvector + BullMQ scheduler. Fully Dockerized.<br>`typescript` `react` `pgvector` `bullmq` `docker` |
+| **🔮 [regret-simulator](https://github.com/Ap-0007/regret-simulator)**<br>Simulate **3 diverging 5-year life trajectories** for any major decision. Optimistic · Realistic · Pessimistic. Powered by Ollama + Next.js 14.<br>`nextjs` `ollama` `supabase` `tbackendlwindcss` `llm` | **🪞 [parallel-you-engine](https://github.com/Ap-0007/parallel-you-engine)**<br>Two-phase **psychological profiling + scenario sim**. Interview builds your decision DNA → simulate what *you specifically* would do in any situation.<br>`react` `vite` `ollama` `psychology` |
 | **⏰ [api-time-machine](https://github.com/Ap-0007/api-time-machine)**<br>Chrome extension + local server that **records XHR/fetch traffic** and replays any past app state. Debug by time-traveling to the exact moment of a bug.<br>`typescript` `chrome-extension` `pnpm-monorepo` | **💻 [myos](https://github.com/Ap-0007/myos)**<br>A custom **OS from scratch** in Assembly. No C runtime. No GRUB. No shortcuts. Bootloader → kernel → bare-metal.<br>`assembly` `osdev` `bare-metal` `kernel` `nasm` |
 
 </div>
@@ -104,9 +104,9 @@ class VantaNox:
 
 <div align="center">
 
-> *every commit, stacked into a city — auto-generated daily*
+> *every commit, stacked into a city — auto-generated dbackendly*
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+<img src="./profile-3d-contrib/profile-night-rbackendnbow.svg" width="100%" alt="3D Contribution Calendar" />
 
 </div>
 
